@@ -5,7 +5,10 @@
 
 Execute the following command in the terminal:
 ```bash
-sudo ./leds
+./build.sh
+```
+```bash
+sudo ./run.sh
 ```
 **默认配置**：绿色代表CPU占用情况，红色代表RAM占用情况，蓝色代表SD卡的读写情况。
 
